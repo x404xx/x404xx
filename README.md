@@ -29,7 +29,7 @@
 
 ### 📈 My Github Stats
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=x404xx&count_private=true&show_icons=true&theme=tokyonight"/><img width="425" src="https://streak-stats.demolab.com/?user=x404xx&theme=tokyonight"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=x404xx&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/><img width="425" src="https://streak-stats.demolab.com/?user=x404xx&theme=tokyonight"/>
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=x404xx&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/x404xx/github-stats">
 <img width="400" src="https://raw.githubusercontent.com/x404xx/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
