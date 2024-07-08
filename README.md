@@ -9,8 +9,9 @@
   <br>
   <strong>This is my second account on GitHub for public code only.</strong>
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=x404xx&label=Profile%20Views&color=1&icon=5&pretty=true" width="auto" height="20">
 </div>
+
+---
 
 ### 💻 Languages and Tools
 
