@@ -69,14 +69,13 @@ Sunday                   41 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-YAML                     22 mins             █████████████░░░░░░░░░░░░   52.09 % 
-Markdown                 20 mins             ████████████░░░░░░░░░░░░░   47.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -88,7 +87,7 @@ Python                   50 repos            ███████████�
 
 
 
- Last Updated on 07/07/2024 00:47:15 UTC
+ Last Updated on 08/07/2024 00:44:16 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
