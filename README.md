@@ -23,6 +23,7 @@
 <code><img height="25" src="https://www.svgrepo.com/show/374171/vscode.svg" alt="vs code"></code>
 <code><img height="25" src="https://www.svgrepo.com/show/452091/python.svg" alt="python"></code>
 <code><img height="25" src="https://www.svgrepo.com/show/373992/powershell.svg" alt="powershell"></code>
+<code><img height="25" src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux"></code>
 <code><img height="25" src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="postgresql"></code>
 <code><img height="25" src="https://www.svgrepo.com/show/374094/sqlite.svg" alt="sqlite"></code>
 <code><img height="25" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb"></code>
