@@ -71,13 +71,13 @@ Sunday                   41 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +89,7 @@ Python                   51 repos            ███████████�
 
 
 
- Last Updated on 11/08/2024 00:49:19 UTC
+ Last Updated on 12/08/2024 00:46:25 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
