@@ -40,7 +40,7 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145.7%20thousand%20lines%20of%20code-blue)
 
@@ -71,13 +71,16 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   12 mins             █████████████████████████   100.00 % 
+Python                   2 hrs 29 mins       █████████████████████████   98.50 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +96,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2025 00:53:39 UTC
+ Last Updated on 23/03/2025 00:59:04 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
