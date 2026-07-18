@@ -40,7 +40,7 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-159.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -71,14 +71,16 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      16 mins             █████████████████████████   100.00 % 
+PHP                      16 mins             ███████████████████░░░░░░   77.51 % 
+Python                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 🔥 Editors: 
-VS Code                  16 mins             ████████████████████████░   95.86 % 
-Copilot CLI              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+VS Code                  21 mins             ████████████████████████░   96.79 % 
+Copilot CLI              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +96,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026 01:52:57 UTC
+ Last Updated on 18/07/2026 01:42:54 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
