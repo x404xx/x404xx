@@ -40,7 +40,9 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2020%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-159.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -84,6 +86,28 @@ VS Code                  15 hrs 3 mins       ███████████�
 Windows                  15 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 7 mins (14.06%)
+
+✍️ 0 lines written by AI, 7,675 lines written by hand (0.0% AI-written)
+
+🔤 163,221 Input Tokens, 4,903 Output Tokens
+
+💵 $0.56 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 28 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 215 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -97,7 +121,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:04:33 UTC
+ Last Updated on 28/07/2026 01:46:36 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
