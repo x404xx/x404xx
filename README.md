@@ -73,38 +73,36 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   8 hrs 34 mins       ████████████████████████░   95.78 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Python                   5 hrs 43 mins       ████████████████████████░   97.43 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 37 mins (18.19%)
+⏱ AI Coding Time: 26 mins (7.53%)
 
-✍️ 0 lines written by AI, 4,505 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,578 lines written by hand (0.0% AI-written)
 
-🔤 107,559 Input Tokens, 4,487 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.39 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 22 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 3 AI Sessions, 3 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 208 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 12 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -121,7 +119,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 01:48:05 UTC
+ Last Updated on 30/07/2026 01:41:11 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
