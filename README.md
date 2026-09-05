@@ -40,7 +40,7 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2033%20mins-blue?style=flat)
 
@@ -73,17 +73,17 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   10 hrs 43 mins      ████████████████████████░   97.58 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   12 hrs 32 mins      ████████████████████████░   97.77 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 50 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,7 +105,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 02:08:48 UTC
+ Last Updated on 05/09/2026 02:09:38 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
