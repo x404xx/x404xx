@@ -73,17 +73,15 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   4 hrs 5 mins        ██████████████████████░░░   86.12 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python                   1 hr 44 mins        ███████████████████████░░   90.59 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,7 +103,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 02:35:22 UTC
+ Last Updated on 18/09/2026 02:21:11 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
