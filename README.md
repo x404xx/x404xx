@@ -40,9 +40,9 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167.50%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -73,23 +73,39 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   8 hrs 24 mins       █████████████░░░░░░░░░░░░   50.47 % 
-HTML                     2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Bash                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-JavaScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Python                   10 hrs 56 mins      ████████████░░░░░░░░░░░░░   48.25 % 
+Bash                     3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+HTML                     2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+JavaScript               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+YAML                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 41 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 54 mins (12.82%)
+
+✍️ 9,640 lines written by AI, 13,123 lines written by hand (42.35% AI-written)
+
+🔤 717,960 Input Tokens, 4,090 Output Tokens
+
+💵 $2.22 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 29 AI Prompts
+
+Github-Copilot           9,640 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 42.35% of written lines came from AI
+📝 Concise Prompter — average 179 characters per prompt
+🔁 Iterative Prompter — average 29 prompts per session
+🔍 Hands-On Reviewer — 65.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +121,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 03:16:50 UTC
+ Last Updated on 03/10/2026 03:02:49 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
