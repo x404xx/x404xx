@@ -73,25 +73,25 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   10 hrs 56 mins      ████████████░░░░░░░░░░░░░   48.25 % 
-Bash                     3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-HTML                     2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-JavaScript               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-YAML                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Python                   5 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.89 % 
+Bash                     3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+HTML                     2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+JavaScript               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+YAML                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 54 mins (12.82%)
+⏱ AI Coding Time: 2 hrs 54 mins (16.63%)
 
-✍️ 9,640 lines written by AI, 13,123 lines written by hand (42.35% AI-written)
+✍️ 9,640 lines written by AI, 10,632 lines written by hand (47.55% AI-written)
 
 🔤 717,960 Input Tokens, 4,090 Output Tokens
 
@@ -102,10 +102,10 @@ Windows                  22 hrs 41 mins      ███████████�
 Github-Copilot           9,640 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 42.35% of written lines came from AI
+⚖️ Balanced with AI — 47.55% of written lines came from AI
 📝 Concise Prompter — average 179 characters per prompt
 🔁 Iterative Prompter — average 29 prompts per session
-🔍 Hands-On Reviewer — 65.48% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 58.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +121,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 03:11:11 UTC
+ Last Updated on 06/10/2026 03:59:51 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
