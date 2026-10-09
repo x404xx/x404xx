@@ -40,7 +40,7 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2028%20mins-blue?style=flat)
 
@@ -73,25 +73,25 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.46 % 
-Bash                     2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-JavaScript               1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-HTML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Python                   3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.46 % 
+Bash                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+HTML                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 54 mins (30.79%)
+⏱ AI Coding Time: 2 hrs 54 mins (43.27%)
 
-✍️ 9,640 lines written by AI, 843 lines written by hand (91.96% AI-written)
+✍️ 9,640 lines written by AI, 719 lines written by hand (93.06% AI-written)
 
 🔤 717,960 Input Tokens, 4,090 Output Tokens
 
@@ -102,10 +102,10 @@ Windows                  9 hrs 26 mins       ███████████�
 Github-Copilot           9,640 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.96% of written lines came from AI
+🤖 AI-Driven — 93.06% of written lines came from AI
 📝 Concise Prompter — average 179 characters per prompt
 🔁 Iterative Prompter — average 29 prompts per session
-🚀 High AI Trust — 10.94% of changed lines were hand-edited
+🚀 High AI Trust — 9.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +121,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 03:42:23 UTC
+ Last Updated on 09/10/2026 03:47:47 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
