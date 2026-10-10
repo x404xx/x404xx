@@ -40,7 +40,7 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2028%20mins-blue?style=flat)
 
@@ -73,39 +73,23 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.46 % 
-Bash                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-HTML                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Python                   13 mins             ██████████░░░░░░░░░░░░░░░   41.25 % 
+YAML                     10 mins             ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+Docker                   8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 54 mins (43.27%)
-
-✍️ 9,640 lines written by AI, 719 lines written by hand (93.06% AI-written)
-
-🔤 717,960 Input Tokens, 4,090 Output Tokens
-
-💵 $2.22 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 29 AI Prompts
-
-Github-Copilot           9,640 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.06% of written lines came from AI
-📝 Concise Prompter — average 179 characters per prompt
-🔁 Iterative Prompter — average 29 prompts per session
-🚀 High AI Trust — 9.58% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +105,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 03:47:47 UTC
+ Last Updated on 10/10/2026 03:30:53 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
