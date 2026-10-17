@@ -73,14 +73,13 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-YAML                     9 mins              ███████████████░░░░░░░░░░   58.67 % 
-Python                   6 mins              ██████████░░░░░░░░░░░░░░░   41.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,7 +101,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 02:23:30 UTC
+ Last Updated on 17/10/2026 02:16:09 UTC
 <!--END_SECTION:waka-->
 
 ### ☂ Support Me
