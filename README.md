@@ -29,6 +29,10 @@
 <code><img height="25" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb"></code>
 <code><img height="25" src="https://www.svgrepo.com/show/349474/php.svg" alt="php"></code>
 
+<a href="https://github.com/x404xx/github-stats">
+<img width="400" src="https://raw.githubusercontent.com/x404xx/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img width="400" src="https://raw.githubusercontent.com/x404xx/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
