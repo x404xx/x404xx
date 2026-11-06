@@ -29,20 +29,10 @@
 <code><img height="25" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb"></code>
 <code><img height="25" src="https://www.svgrepo.com/show/349474/php.svg" alt="php"></code>
 
-### 📈 My Github Stats
-
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=x404xx&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/><img width="425" src="https://streak-stats.demolab.com/?user=x404xx&theme=tokyonight"/>
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=x404xx&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/x404xx/github-stats">
-<img width="400" src="https://raw.githubusercontent.com/x404xx/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-<img width="400" src="https://raw.githubusercontent.com/x404xx/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
-
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2039%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167.50%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -66,7 +56,6 @@ Saturday                 49 commits          ██░░░░░░░░░�
 Sunday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 ```
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -84,12 +73,6 @@ VS Code                  27 hrs 23 mins      ███████████�
 
 💻 Operating System: 
 Windows                  27 hrs 23 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
