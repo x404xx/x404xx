@@ -15,9 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
+        env:
+          TZ: Asia/Kuala_Lumpur
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %I:%M:%S %p MYT"
           COMMIT_MESSAGE: "Updated simple waka stats section"
           SHOW_PROJECTS: "False"
           SHOW_SHORT_INFO: "False"
