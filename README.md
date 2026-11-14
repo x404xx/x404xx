@@ -94,7 +94,7 @@
 
 ### 🐤 Commit Activity
 
-- *I'm an Early 🐤**
+- *I'm an Early 🐤*
 
 ```text
 🌞 Morning    204 commits  ██████████░░░░░░░░░░░░░░░  41.21%
@@ -103,7 +103,7 @@
 🌙 Night      115 commits  ██████░░░░░░░░░░░░░░░░░░░  23.23%
 ```
 
-- *📅 Most productive day: Tuesday**
+- *📅 Most productive day: Tuesday*
 
 ```text
 Monday        56 commits  ███░░░░░░░░░░░░░░░░░░░░░░  11.31%
