@@ -70,28 +70,28 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.93%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.94%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                212 commits         ██████████░░░░░░░░░░░░░░░   41.90 % 
-🌆 Daytime                121 commits         ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-🌃 Evening                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-🌙 Night                  115 commits         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+🌞 Morning                216 commits         ███████████░░░░░░░░░░░░░░   42.35 % 
+🌆 Daytime                121 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌃 Evening                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌙 Night                  115 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Tuesday                  113 commits         ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Wednesday                50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Friday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Monday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Tuesday                  113 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Wednesday                50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Friday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Sunday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 
@@ -101,19 +101,20 @@ Sunday                   64 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-HTML                     3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-Python                   2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-TypeScript               1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-JavaScript               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+HTML                     5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+TypeScript               3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+JavaScript               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Python                   2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Markdown                 2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 15 mins       ██████████████░░░░░░░░░░░   54.65 % 
-Copilot CLI              5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.02 % 
-Cline Cli                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Copilot CLI              8 hrs 22 mins       ████████████░░░░░░░░░░░░░   48.10 % 
+VS Code                  7 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.52 % 
+Copilot                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Cline Cli                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Windows                  11 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +130,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 06:41:29 AM MYT UTC
+ Last Updated on 16/11/2026 07:05:03 AM MYT UTC
 <!--END_SECTION:waka-->
 
 ## ☕ Support My Work
