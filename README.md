@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4f46e5,100:a855f7&height=220&section=header&text=x404xx&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Learn%20%7C%20Build&descSize=18&descAlignY=60" alt="Gradient banner for x404xx">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4f46e5,100:a855f7&height=220&section=header&text=Hey, I'm x404xx 👋&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Learn%20%7C%20Build&descSize=18&descAlignY=60" alt="Gradient banner for x404xx">
 </p>
-
-<h1 align="center">Hey, I'm x404xx 👋</h1>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/fdBtV3ykL3NsNPoD3A/giphy.gif" width="280px" style="border-radius: 12px;">
