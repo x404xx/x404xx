@@ -75,21 +75,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                216 commits         ███████████░░░░░░░░░░░░░░   42.27 % 
-🌆 Daytime                121 commits         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-🌃 Evening                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-🌙 Night                  116 commits         ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+🌞 Morning                216 commits         ███████████░░░░░░░░░░░░░░   42.19 % 
+🌆 Daytime                121 commits         ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+🌃 Evening                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+🌙 Night                  117 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Tuesday                  113 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Wednesday                50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Friday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Sunday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Monday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Tuesday                  113 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Wednesday                50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Thursday                 68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Friday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Sunday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 ```
 
 
@@ -99,19 +99,19 @@ Sunday                   68 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-HTML                     2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Python                   2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Markdown                 2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-TypeScript               1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-JavaScript               1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Python                   2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+HTML                     2 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Markdown                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+TypeScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+JavaScript               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 
 🔥 Editors: 
-Copilot CLI              6 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.15 % 
-VS Code                  5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.69 % 
-Copilot                  1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+VS Code                  4 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.78 % 
+Copilot CLI              4 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.89 % 
+Copilot                  1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
 
 💻 Operating System: 
-Windows                  12 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -127,7 +127,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 01:06:19 AM MYT UTC
+ Last Updated on 19/11/2026 08:41:05 AM MYT UTC
 <!--END_SECTION:waka-->
 
 ## ☕ Support My Work
