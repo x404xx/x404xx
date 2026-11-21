@@ -99,19 +99,19 @@ Sunday                   68 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-HTML                     2 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Markdown                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-TypeScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-JavaScript               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+HTML                     2 hrs               ████████░░░░░░░░░░░░░░░░░   32.85 % 
+TypeScript               1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+JavaScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+JSON                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.78 % 
-Copilot CLI              4 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.89 % 
-Copilot                  1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Copilot CLI              3 hrs 13 mins       █████████████░░░░░░░░░░░░   52.98 % 
+VS Code                  1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+Copilot                  1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
 
 💻 Operating System: 
-Windows                  10 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -127,7 +127,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 08:08:18 AM MYT UTC
+ Last Updated on 22/11/2026 07:33:29 AM MYT UTC
 <!--END_SECTION:waka-->
 
 ## ☕ Support My Work
