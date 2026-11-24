@@ -68,28 +68,28 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.94%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.95%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                216 commits         ███████████░░░░░░░░░░░░░░   42.19 % 
-🌆 Daytime                121 commits         ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-🌃 Evening                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-🌙 Night                  117 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+🌞 Morning                218 commits         ███████████░░░░░░░░░░░░░░   42.08 % 
+🌆 Daytime                124 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+🌃 Evening                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+🌙 Night                  118 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Tuesday                  113 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Wednesday                50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Thursday                 68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Friday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Sunday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Monday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Tuesday                  114 commits         ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Wednesday                50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Thursday                 68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Friday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Saturday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Sunday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 ```
 
 
@@ -99,29 +99,33 @@ Sunday                   68 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 48 mins       ██████████████░░░░░░░░░░░   56.78 % 
+TypeScript               1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
 Python                   56 repos            ███████████████████████░░   90.32 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
 
 
- Last Updated on 23/11/2026 07:45:50 AM MYT UTC
+ Last Updated on 24/11/2026 12:03:24 PM MYT UTC
 <!--END_SECTION:waka-->
 
 ## ☕ Support My Work
