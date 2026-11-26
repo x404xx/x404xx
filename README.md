@@ -68,7 +68,7 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -99,17 +99,18 @@ Sunday                   68 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-JavaScript               5 hrs 12 mins       ██████████████░░░░░░░░░░░   55.61 % 
-TypeScript               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+JavaScript               5 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.88 % 
+TypeScript               2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Python                   1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 36 mins      █████████████████████████   99.04 % 
+Cursor                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Windows                  9 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -125,7 +126,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2026 10:45:03 AM MYT UTC
+ Last Updated on 26/11/2026 09:55:52 AM MYT UTC
 <!--END_SECTION:waka-->
 
 ## ☕ Support My Work
