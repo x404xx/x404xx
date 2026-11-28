@@ -68,7 +68,7 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -99,18 +99,18 @@ Sunday                   68 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-JavaScript               5 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.53 % 
-TypeScript               2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Python                   1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+JavaScript               5 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.88 % 
+TypeScript               2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Python                   1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 44 mins      █████████████████████████   99.05 % 
-Cursor                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+VS Code                  13 hrs 24 mins      █████████████████████████   99.06 % 
+Cursor                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Windows                  12 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +126,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2026 09:54:01 AM MYT UTC
+ Last Updated on 28/11/2026 09:35:57 AM MYT UTC
 <!--END_SECTION:waka-->
 
 ## ☕ Support My Work
